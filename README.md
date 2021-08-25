@@ -9,7 +9,7 @@ To better gauge your skills as a full stack developer, we would like you to comp
 
 ## Project Description
 The task is to create a simple Spending Tracker app to track spending costs. The app should allow you to add and remove items from the list.
-We have included a wireframe to show the basic functionality and give you a starting point.
+We have included a wireframe (Spending Tacker.jpg) to show the basic functionality and give you a starting point.
 The project will consist of two parts:
 1. A frontend created with React
 	- keep the frontend simple, we are more interested in functionality and your code rather than design
