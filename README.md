@@ -8,7 +8,8 @@ To better gauge your skills as a full stack developer, we would like you to comp
 3. Push all of your changes to your fork on GitHub and submit a pull request.
 
 ## Project Description
-The task is to create a simple Shopping List app to manage a list of items to purchase. The app should allow you to add, edit and remove items from the list.
+The task is to create a simple Spending Tracker app to track spending costs. The app should allow you to add and remove items from the list.
+We have included a wireframe to show the basic functionality and give you a starting point.
 The project will consist of two parts:
 1. A frontend created with React
 	- keep the frontend simple, we are more interested in functionality and your code rather than design
