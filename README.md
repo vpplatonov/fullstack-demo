@@ -1,6 +1,6 @@
 # Viva Naturals Full Stack Demo 
 
-To better gauge your skills as a full stack developer, we would like you to complete the following assignment. This will help our interviewers assess your strengths, and frame the conversation through the interview process. Take as much time as you need, however we ask that you not spend more than a few hours.
+To better gauge your skills as a full stack developer and your fit into Viva's engineering team, we would like you to complete the following assignment. This will help our interviewers assess your strengths, and frame the conversation through the interview process. We expect this assignment to take a few hours. However, feel free to take as much time as you need to deliver a solution by the stated deadline.
 
 ## Submission Instructions
 1. Fork this project on GitHub. You will need to create an account if you don't already have one
