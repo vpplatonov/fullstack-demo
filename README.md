@@ -13,8 +13,10 @@ We have included a wireframe (Spending Tacker.jpg) to show the basic functionali
 The project will consist of two parts:
 1. A frontend created with React
 	- keep the frontend simple, we are more interested in functionality and your code rather than design
-2. A backend api to save the list to a db using Python/Flask
+2. A backend api to save the list to a db
+	- use stack Python/Flask and MongoDB
 	- create REST API endpoints, you can use flask-restx or other api library to help
+	- if time permits consider adding features such as sorting and filtering the list
 
 If you need to make any assumptions in order to complete the task, make a note of them in your comments.
 
