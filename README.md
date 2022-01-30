@@ -10,7 +10,7 @@ To better gauge your skills as a full stack developer and your fit into engineer
 A simple Spending Tracker app to track spending costs. The app allow you to add and remove items from the list.
 We have included a wireframe (Spending Tracker.jpg) to show the basic functionality and give you a starting point.
 
-![](./mockup/Spending Tracker.jpg)
+![](./mockup/SpendingTracker.jpg)
 
 The project consist of three parts:
 1. A frontend created with React
@@ -31,7 +31,7 @@ The project consist of three parts:
 
 #### MongoDB engine & Mongo Express [Flask with MongoDB](https://www.mongodb.com/compatibility/setting-up-flask-with-mongodb)
 
-![](./mockup/MongoExpress FullStack Demo.png)
+![](./mockup/MongoExpressFullStackDemo.png)
 
 #### React 17.0.2 with Router 6.2.1 [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
 
