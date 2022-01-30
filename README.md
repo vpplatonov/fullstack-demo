@@ -63,6 +63,8 @@ docker system prune -f -a
 ## TODO
 
 - fix Clear Button
+- Total Spending in Navbar
+- Format Date field
 - Adding features such as sorting and filtering the list
 - Test coverage by pytest & ESlint
 
